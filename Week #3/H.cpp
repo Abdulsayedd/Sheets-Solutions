@@ -23,6 +23,6 @@ int main () {
                 }
             }
         }
-        cout<<mn;
+        cout<<mn<<endl;
     }
 }
